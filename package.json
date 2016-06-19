@@ -1,0 +1,23 @@
+{
+  "name": "unyil",
+  "version": "1.0.0",
+  "description": "Unyil si anak surau",
+  "main": "index.js",
+  "dependencies": {
+    "botkit": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demigeek/unyil.git"
+  },
+  "author": "demigeek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demigeek/unyil/issues"
+  },
+  "homepage": "https://github.com/demigeek/unyil#readme"
+}
